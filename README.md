@@ -1,6 +1,59 @@
 # Frontend Mentor - Social links profile
 
-![Design preview for the Social links profile coding challenge](./preview.jpg)
+![Design pre# Frontend Mentor - Social links profile solution
+
+This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+
+## Table of contents
+
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
+
+## Overview
+
+### The challenge
+
+Users should be able to:
+
+- See hover and focus states for all interactive elements on the page
+
+### Links
+
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: (https://social-linksx.netlify.app/)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Mobile-first workflow
+
+### What I learned
+
+How to style accessible focus states for interactive elements
+
+Improved my layout and alignment skills using Flexbox
+
+Gained confidence in building fully responsive components with basic HTML and CSS
+
+### Useful resources
+
+- MDN Web Docs – Focus States
+
+- The A11Y Project – Focus Indicators – Helpful accessibility guide
+
+## Author
+
+- Frontend Mentor - [@0xDoctorEth](https://www.frontendmentor.io/profile/yourusername)
+view for the Social links profile coding challenge](./preview.jpg)
 
 ## Welcome! 👋
 
